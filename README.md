@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hey There, I'm Shoham.
 
-* Full Stack
-* ReactJS + NodeJS Developer
+* Full Stack Developer
+* ReactJS + NodeJS Lover
 * I Create Interactive Website Taking care of FrontEnd to BackEnd Development
 * Well Organized and Clean Code
 
