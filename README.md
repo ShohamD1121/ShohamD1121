@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * Full Stack Developer
 * ReactJS + NodeJS Lover
-* I Create Interactive Website Taking care of FrontEnd to BackEnd Development
+* I create Interactive SPA Websites taking care of Frontend to Backend Development
 * Well Organized and Clean Code
 
 * My Stats:
