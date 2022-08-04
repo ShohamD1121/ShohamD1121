@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hey There, I'm Shoham.
+
 * Full Stack
 * ReactJS + NodeJS Developer
 * I Create Interactive Website Taking care of FrontEnd to BackEnd Development
