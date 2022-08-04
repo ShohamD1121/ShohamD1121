@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey There, I'm Shoham.
+### Hey There, I'm Shoham.
 
 * Full Stack
 * ReactJS + NodeJS Developer
