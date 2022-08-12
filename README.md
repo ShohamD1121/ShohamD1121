@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShohamD1121&count_private=true&langs_count=30&layout=compact&theme=monokai)
 
-![](https://komarev.com/ghpvc/?username=ShohamD1121)
