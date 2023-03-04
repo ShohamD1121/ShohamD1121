@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hey There, I'm Shoham.
 
 * Full Stack Developer
-* ReactJS + NodeJS
+* ReactJS, NestJS, Java Spring Boot
 * I create Interactive SPA Websites taking care of Frontend to Backend Development
 * Well Organized and Clean Code
 
