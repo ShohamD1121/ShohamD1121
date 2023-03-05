@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Hey there, I'm Shoham, a Full Stack Developer!
+# Hey there, I'm Shoham, a Full Stack Developer!
 
 I specialize in ReactJS, NestJS, and Java Spring Boot, and I create interactive SPA websites while taking care of the entire development process from frontend to backend. I'm passionate about writing well-organized, clean code that is easy to read and maintain.
 
