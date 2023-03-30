@@ -73,6 +73,6 @@ Here are some ideas to get you started:
 
 
 
-![ShohamD1121's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohamD1121&theme=monokai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShohamD1121&count_private=true&langs_count=30&layout=compact&theme=monokai)
+<!-- ![ShohamD1121's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohamD1121&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShohamD1121&count_private=true&langs_count=30&layout=compact&theme=monokai) -->
 
