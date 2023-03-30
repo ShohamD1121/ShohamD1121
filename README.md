@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShohamD1121&theme=monokai" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShohamD1121&count_private=true&langs_count=30&layout=compact&theme=monokai)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShohamD1121&count_private=true&langs_count=30&layout=compact&theme=monokai
 " align="center" /></div>  
 
 
