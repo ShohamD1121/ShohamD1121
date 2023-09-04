@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 ### <div align="center">Hey there, I'm Shoham, a Full Stack Developer!</div>   
 
-- 🔭 I’m currently Learning Kubernetes 
-
-- ⚡ I’m currently working as a Full Stack Developer at the IDF
+- ⚡ I’m currently working as a Full Stack Developer at Web3m
 
 - 🤝 I’m looking to collaborate on **Open Source projects**.
 
