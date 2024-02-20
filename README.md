@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 - ⚡ I’m currently working as a Full Stack Developer at Web3m
 
-- 🤝 I’m looking to collaborate on **Open Source projects**.
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
