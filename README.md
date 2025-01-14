@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### <div align="center">Hey there, I'm Shoham, a Full Stack Developer!</div>   
 
-- ⚡ I’m currently working as a Backend Developer at Web3m
+- ⚡ I’m currently working as a Backend Developer at Web3m.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
